@@ -31,4 +31,4 @@ Feel free to fork this project, play around with it, extend it, develop your own
 MCCBot is published under the [GNU Affero General Public License](http://www.gnu.org/licenses/agpl-3.0.html), which means that you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 ## Credits
-The Minecraft client/server protocol implementation is entirely based on the great work done by the folks at [MinecraftCoalition](http://wiki.vg). Thanks for detailed specs and documentation!
+The Minecraft client/server protocol implementation is entirely based on the great work done by the folks at [MinecraftCoalition](http://wiki.vg). Thanks for the detailed specs and documentation!
