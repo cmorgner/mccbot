@@ -7,9 +7,12 @@ The goal of this project is to develop a fully-functional simulation environment
 Feel free to fork this project, play around with it, extend it, develop your own Bot engine etc, and send back pull requests, questions, comments, etc.
 
 ## Current status
-This client was initially intended to provide a simulation environment for the test of cleaning algorithms for vacuum cleaning robots. After this initial goal was met, I wanted to transform the client into a programming environment for Minecraft bot and AI programming.
+This client was initially intended to provide a simulation environment for the test of cleaning algorithms for vacuum cleaning robots. After this initial goal was met, I wanted to transform the client into a programming environment for Minecraft bot and AI programming. 
 
-Since the world simulation in Minecraft is almost completely done by the client - while the server only enforces constraints and kicks misbehaving clients - the effort to develop this client into a completely functional (and well-behaving) Minecraft client vastly exceeds the amount of time I can spare for such a project.
+### Cleaning algorithm
+The CleanerBot class in this project contains a simple sweeping algorithm that completely covers the floor of a confined space, visiting each position at least a given number of times. Developing this algorithm was the driving force behind this project in the first place.
+
+Since the world simulation in Minecraft is almost completely done by the client - while the server only enforces constraints and kicks misbehaving clients - the effort to develop this client into a fully functional (and well-behaving) Minecraft client vastly exceeds the amount of time I can spare for such a project.
 
 With MCCBot in its current state, you can
 
