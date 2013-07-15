@@ -124,7 +124,8 @@ import java.util.Map;
 /**
  * Abstract base class for all packets of the minecraft protocol. This
  * class initializes all the serializers and the protocol packets for
- * the minecraft protocol version 74, as here: http://wiki.vg/Protocol
+ * the minecraft protocol version 74, as defined here:
+ * http://wiki.vg/Protocol
  * 
  * @author Christian Morgner
  */
